@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Thakur</h1>
-<h3 align="center"></></h3>
 
 <p align="left"> <a href="https://twitter.com/ak_abhishek_007" target="blank"><img src="https://img.shields.io/twitter/follow/ak_abhishek_007?logo=twitter&style=for-the-badge" alt="ak_abhishek_007" /></a> </p>
+
+- 🔭 **I’m currently a 1st year BCA Student**
 
 - 🌱 I’m currently learning **C/C++**
 
